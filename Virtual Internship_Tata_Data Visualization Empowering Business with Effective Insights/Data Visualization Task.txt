@@ -1,5 +1,3 @@
-https://www.theforage.com/modules/MyXvBcppsW2FkNYCX/ifGZCL6vAeE9mzxt3?ref=oxXsWxWnNryyFQLm7
-
 In this task, you will create the visuals around four of the questions that the CEO and CMO have requested. You can use either Tableau or Power BI to create the visuals and we’ve provided the data in the resources below. 
 Both Power BI and Tableau have free trials that can be accessed in order to complete this task. You can find a resource below that directs you how to download these free trials.
 
