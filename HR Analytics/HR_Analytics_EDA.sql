@@ -1,5 +1,3 @@
-USE meriskill;
-
 SELECT Age
 FROM `hremployeeattrition`;
 
